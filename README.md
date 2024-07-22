@@ -57,7 +57,7 @@ These steps will set up the environment and install the necessary packages for r
 
 2. **View Results:**
    Results and visualizations will be saved in the `plots/` directory.
-![Performance Comparison Plots](./plots/pop_times.png)
+![Performance Comparison Plots](./plots/google_colab_test.png)
 
 ## Statistical Tests Performed
 
