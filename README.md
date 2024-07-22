@@ -6,9 +6,9 @@ This repository contains a comprehensive analysis of the performance of the `lis
 
 ## Repository Structure
 
-- `data/`: Contains sample data used for performance evaluation.
+- `data/`: Contains samples data used for performance evaluation.
 - `notebooks/`: Jupyter notebook with detailed analysis and visualization.
-- `results/`: Generated plots and results from the analysis.
+- `plots/`: Generated plot from the analysis.
 
 ## Installation
 
